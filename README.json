@@ -1,0 +1,265 @@
+{
+  "items": [
+    {
+      "description": "Today, we’re excited to announce that Flawless App has joined Abstract, a design delivery platform that brings visibility, accountability, measurability, and predictability to design.\nFlawless App was our first company, and we’re proud of everything that we’ve achieved with our 5-person team.\nSince 2015, we’ve launched powerful tools for designers and developers — among them are Flawless App, Reduce, Flawless Feedback. We’ve also invested a lot of love and care into community-driven initiatives. Awesome Design Tools is one of them.",
+      "items": [],
+      "title": "Awesome Design Tools as a part of Flawless App family joins Abstract!"
+    },
+    {
+      "description": "Our team has joined Abstract and is focused on building out the Abstract SDK, bringing developers’ experience forward. One unbelievable journey has finished and the new one has just begun. And if you want to know more about the future of Awesome Design Tools, please keep reading our FAQ.",
+      "items": [],
+      "title": "So what’s next?"
+    },
+    {
+      "description": "Accessibility is the practice of creating websites and apps usable for all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Axe",
+          "description": "accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries, and environments you use today. It's an automated accessibility testing tool for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T13:51:56Z",
+            "owner": "dequelabs",
+            "repo": "axe-core",
+            "stars": 7401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ANDI",
+          "description": "accessibility testing tool for web content (bookmarklet). It will automatically detect accessibility issues, give suggestions to improve online accessibility and check 508 compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-04T17:14:04Z",
+            "owner": "SSAgov",
+            "repo": "ANDI",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessible Palette Builder",
+          "description": "an Elm-based prototype to help designers build accessible color palettes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-30T23:52:13Z",
+            "owner": "toolness",
+            "repo": "accessible-color-matrix",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A11ygator",
+          "description": "a web tool to analyze websites against WCAG rules. Also available as Google Chrome browser extension and as Twitter bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T04:12:27Z",
+            "owner": "chialab",
+            "repo": "a11ygator-app",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Accessibility Tools"
+    },
+    {
+      "description": "If you are looking for an eyedropper tool, color identifier or color capture, check this section. With the color pickers mentioned here, you will be able to create new color combinations and define great ones. Almost all of these tools are free:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Color",
+          "description": "a collection of color pickers from Sketch, Photoshop, Chrome. It‘s free and open-source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-12T23:19:54Z",
+            "owner": "casesandberg",
+            "repo": "react-color",
+            "stars": 12320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Colors Native",
+          "description": "Google's material design color palette in the form of a mac app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-01T16:34:52Z",
+            "owner": "BafS",
+            "repo": "Material-Colors-native",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Color Deck",
+          "description": "an HSL driven color palette collection. It's also open-source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-08T09:38:21Z",
+            "owner": "obscuredetour",
+            "repo": "color-deck",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Color Picker Tools"
+    },
+    {
+      "description": "Fonts are commonly used for making the web a more beautiful place. It’s an essential part of any design. In this section, you’ll find fonts generators & font finder tools that allow you to manage and work with fonts:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Webfonts Helper",
+          "description": "a hassle way to self-host Google Fonts. It‘s free and open-source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T14:45:40Z",
+            "owner": "majodev",
+            "repo": "google-webfonts-helper",
+            "stars": 13040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Font Preview",
+          "description": "preview Google Font pairings with components and site templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T03:47:10Z",
+            "owner": "jonaskay",
+            "repo": "webfontpreview",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Font Tools"
+    },
+    {
+      "description": "As well as fonts, icons are used in every design. These basic elements support and guide many user actions inside the product. Without a doubt, icons are a vital element in user navigation. While making those small design elements is hard and time-consuming, you can get thousands of vector icons for personal and commercial use.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Font Awesome",
+          "description": "the web's most popular icon set and toolkit, also it's open source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T18:15:53Z",
+            "owner": "FortAwesome",
+            "repo": "Font-Awesome",
+            "stars": 76839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fontello",
+          "description": "tool to build custom fonts with icons, also open source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-31T23:41:36Z",
+            "owner": "fontello",
+            "repo": "fontello",
+            "stars": 7082
+          }
+        }
+      ],
+      "title": "Icons Tools"
+    },
+    {
+      "description": "Pixel art is a digital art form where color is applied to individual pixels to create an image. The pixel art can be used to create everything from intricate scenes and game backgrounds to character designs or emoji. If you feel curious to try, check this pixel art software for both macOS and Windows:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Data Pixels",
+          "description": "create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-23T16:04:56Z",
+            "owner": "gmattie",
+            "repo": "Data-Pixels",
+            "stars": 3448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Make 8 bit art",
+          "description": "an open source and in-browser pixel art drawing tool.",
+          "children": []
+        }
+      ],
+      "title": "Pixel Art Tools"
+    },
+    {
+      "description": "Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kap",
+          "description": "open source screen recorder with options to export to GIF, MP4, WebM and APNG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-12T15:32:40Z",
+            "owner": "wulkano",
+            "repo": "Kap",
+            "stars": 19317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScreenToGif",
+          "description": "record a gif of part of the screen. Only available for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-12T15:32:40Z",
+            "owner": "wulkano",
+            "repo": "Kap",
+            "stars": 19317
+          }
+        }
+      ],
+      "title": "Screenshot Software"
+    },
+    {
+      "description": "Awesome Design Tools & Plugins is curated by Lisa Dziuba & Valia Havruliyk from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please suggest it. Thanks for making this project awesome :)",
+      "items": [],
+      "title": "Addendum (Reference & Inspiration)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:52:23.781Z",
+    "original_repository": "goabstract/Awesome-Design-Tools",
+    "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome Design Tools with stars"
+  }
+}
