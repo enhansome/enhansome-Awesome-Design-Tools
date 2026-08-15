@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T13:51:56Z",
             "owner": "dequelabs",
             "repo": "axe-core",
-            "stars": 7401
+            "stars": 7402
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2026-02-27T14:45:40Z",
             "owner": "majodev",
             "repo": "google-webfonts-helper",
-            "stars": 13040
+            "stars": 13041
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2022-12-31T23:41:36Z",
             "owner": "fontello",
             "repo": "fontello",
-            "stars": 7082
+            "stars": 7081
           }
         }
       ],
@@ -228,7 +228,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19317
+            "stars": 19323
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19317
+            "stars": 19323
           }
         }
       ],
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:52:23.781Z",
+    "last_updated": "2026-08-15T02:41:14.195Z",
     "original_repository": "goabstract/Awesome-Design-Tools",
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
