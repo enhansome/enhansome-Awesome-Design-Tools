@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T13:51:56Z",
             "owner": "dequelabs",
             "repo": "axe-core",
-            "stars": 7402
+            "stars": 7406
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2020-05-30T23:52:13Z",
             "owner": "toolness",
             "repo": "accessible-color-matrix",
-            "stars": 345
+            "stars": 346
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2026-02-27T14:45:40Z",
             "owner": "majodev",
             "repo": "google-webfonts-helper",
-            "stars": 13041
+            "stars": 13042
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-15T18:15:53Z",
             "owner": "FortAwesome",
             "repo": "Font-Awesome",
-            "stars": 76839
+            "stars": 76842
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2021-12-23T16:04:56Z",
             "owner": "gmattie",
             "repo": "Data-Pixels",
-            "stars": 3448
+            "stars": 3450
           }
         },
         {
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:41:14.195Z",
+    "last_updated": "2026-08-16T02:48:40.135Z",
     "original_repository": "goabstract/Awesome-Design-Tools",
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
