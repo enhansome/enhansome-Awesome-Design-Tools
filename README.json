@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T13:51:56Z",
             "owner": "dequelabs",
             "repo": "axe-core",
-            "stars": 7406
+            "stars": 7408
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2025-04-04T17:14:04Z",
             "owner": "SSAgov",
             "repo": "ANDI",
-            "stars": 391
+            "stars": 392
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2022-12-31T23:41:36Z",
             "owner": "fontello",
             "repo": "fontello",
-            "stars": 7081
+            "stars": 7082
           }
         }
       ],
@@ -202,7 +202,7 @@
             "last_commit": "2021-12-23T16:04:56Z",
             "owner": "gmattie",
             "repo": "Data-Pixels",
-            "stars": 3450
+            "stars": 3451
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19323
+            "stars": 19326
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19323
+            "stars": 19326
           }
         }
       ],
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:48:40.135Z",
+    "last_updated": "2026-08-17T02:48:53.710Z",
     "original_repository": "goabstract/Awesome-Design-Tools",
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
