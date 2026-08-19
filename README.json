@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T13:51:56Z",
+            "last_commit": "2026-08-18T16:48:42Z",
             "owner": "dequelabs",
             "repo": "axe-core",
-            "stars": 7410
+            "stars": 7413
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2025-04-04T17:14:04Z",
             "owner": "SSAgov",
             "repo": "ANDI",
-            "stars": 392
+            "stars": 394
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2026-02-27T14:45:40Z",
             "owner": "majodev",
             "repo": "google-webfonts-helper",
-            "stars": 13043
+            "stars": 13044
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2021-12-23T16:04:56Z",
             "owner": "gmattie",
             "repo": "Data-Pixels",
-            "stars": 3451
+            "stars": 3450
           }
         },
         {
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:44:28.062Z",
+    "last_updated": "2026-08-19T02:46:04.832Z",
     "original_repository": "goabstract/Awesome-Design-Tools",
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
