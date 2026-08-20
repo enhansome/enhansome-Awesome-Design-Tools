@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 37205440,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T16:48:42Z",
+                "last_commit": "2026-08-19T14:09:21Z",
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7412
+                "stars": 7414
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-07-15T18:15:53Z",
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76842
+                "stars": 76845
               }
             },
             {
@@ -232,7 +232,7 @@
                 "last_commit": "2024-11-12T15:32:40Z",
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19331
+                "stars": 19332
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2024-11-12T15:32:40Z",
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19331
+                "stars": 19332
               }
             }
           ],
@@ -260,7 +260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:44.995Z",
+    "last_updated": "2026-08-20T02:45:06.200Z",
     "original_repository": "goabstract/Awesome-Design-Tools",
     "original_repository_id": 170326929,
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
