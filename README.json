@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 37205440,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T22:30:42Z",
+                "last_commit": "2026-08-21T15:30:02Z",
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7421
+                "stars": 7426
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2024-01-12T23:19:54Z",
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12321
+                "stars": 12322
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-02-27T14:45:40Z",
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13048
+                "stars": 13049
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-07-15T18:15:53Z",
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76854
+                "stars": 76856
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2021-12-23T16:04:56Z",
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3453
+                "stars": 3454
               }
             }
           ],
@@ -232,7 +232,7 @@
                 "last_commit": "2024-11-12T15:32:40Z",
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19333
+                "stars": 19332
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2024-11-12T15:32:40Z",
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19333
+                "stars": 19332
               }
             }
           ],
@@ -260,7 +260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:51:45.225Z",
+    "last_updated": "2026-08-22T02:43:01.822Z",
     "original_repository": "goabstract/Awesome-Design-Tools",
     "original_repository_id": 170326929,
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
