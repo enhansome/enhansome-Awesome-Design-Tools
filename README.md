@@ -2,9 +2,9 @@
 
 # Awesome Design Tools with stars
 
-* [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
-* [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
-* [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
+* [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
+* [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
+* [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
 
 <p align="center">
     <a href="https://flawlessapp.io/designtools">
@@ -36,11 +36,11 @@ Our team has joined Abstract and is focused on building out the [Abstract SDK](h
 
 ## How to Use and Contribute
 
-* Now you are in the **Awesome Design Tools** section, if you need plugins — go to [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
+* Now you are in the **Awesome Design Tools** section, if you need plugins — go to [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
 * To find the tool, go through the Table of Contents or search for a keyword (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 (they're very simple, please take a look). Design tools should be submitted here and plugins in [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 file. We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
+If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 (they're very simple, please take a look). Design tools should be submitted here and plugins in [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 file. We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
 
 </div>
 
@@ -96,7 +96,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 Accessibility is the practice of creating websites and apps usable for all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:
 
-* [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries, and environments you use today. It's an automated accessibility testing tool for developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/dequelabs/axe-core) ⭐ 7,434 | 🐛 437 | 🌐 JavaScript | 📅 2026-08-21
+* [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries, and environments you use today. It's an automated accessibility testing tool for developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/dequelabs/axe-core) ⭐ 7,436 | 🐛 437 | 🌐 JavaScript | 📅 2026-08-24
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool for web content (bookmarklet). It will automatically detect accessibility issues, give suggestions to improve online accessibility and check 508 compliance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/SSAgov/ANDI) ⭐ 394 | 🐛 67 | 🌐 JavaScript | 📅 2025-04-04
 * [Accessible Palette Builder](https://toolness.github.io/accessible-color-matrix/) — an Elm-based prototype to help designers build accessible color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/toolness/accessible-color-matrix) ⭐ 346 | 🐛 17 | 🌐 JavaScript | 📅 2020-05-30
 * [A11ygator](https://a11ygator.chialab.io) — a web tool to analyze websites against WCAG rules. Also available as Google Chrome browser extension and as Twitter bot. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/chialab/a11ygator-app) ⭐ 7 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-09
@@ -121,7 +121,7 @@ Accessibility is the practice of creating websites and apps usable for all peopl
 
 <div class="banner banner--yellow">
 
-Accessibility checking features are also available in VisBug from the [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 category.
+Accessibility checking features are also available in VisBug from the [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 category.
 
 </div>
 
@@ -327,10 +327,10 @@ How do you provide and get feedback during the development process? This process
 
 Design handoff happens when designers finish the work and need to deliver designs to developers with all specs and assets. Design handoff tools allow to automatically generate style guide, comment on the design, inspect elements. These tools minimize guesswork and improve the effectiveness of the design process.
 
+* [Sketch Measure](https://github.com/utom/sketch-measure) ⭐ 6,853 | 🐛 409 | 🌐 HTML | 📅 2025-07-30 — Sketch redline plugin. Annotate distance and size of elements. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
 * [Flawless App](https://flawlessapp.io/) — a tool to compare the expected design and the real app right inside iOS Simulator (useful for designers who use Xcode or mobile developers). ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development. Made by Invision.
-* [Sketch Measure](https://github.com/utom/sketch-measure) ⭐ 6,853 | 🐛 409 | 🌐 HTML | 📅 2025-07-30 — Sketch redline plugin. Annotate distance and size of elements. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and style guides with accurate specs, assets, code snippets automatically.
@@ -494,12 +494,12 @@ Developers actively use version control tools for a long time, probably since 20
 
 This section mentions development tools and browsers. Development browsers have features that help developers and designers create and test websites and apps.
 
+* [Styleguidist](https://github.com/styleguidist/react-styleguidist) ⭐ 11,067 | 🐛 245 | 🌐 TypeScript | 📅 2025-01-07 — isolated React component development environment with a living style guide. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster.
 * [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Litmus](https://litmus.com/) — an email campaign creation platform that, amongst other things, lets you see how HTML emails will appear in a wide variety of email clients.
 * [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps.
 * [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Styleguidist](https://github.com/styleguidist/react-styleguidist) ⭐ 11,068 | 🐛 245 | 🌐 TypeScript | 📅 2025-01-07 — isolated React component development environment with a living style guide. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 
@@ -572,7 +572,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 
 <div class="banner banner--yellow">
 
-You can also handle fonts with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
+You can also handle fonts with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
 
 </div>
 
@@ -625,7 +625,7 @@ You can also create and audit gradients with Leonardo, which is mentioned in the
 
 As well as fonts, icons are used in every design. These basic elements support and guide many user actions inside the product. Without a doubt, icons are a vital element in user navigation. While making those small design elements is hard and time-consuming, you can get thousands of vector icons for personal and commercial use.
 
-* [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome) ⭐ 76,860 | 🐛 315 | 🌐 JavaScript | 📅 2026-07-15
+* [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome) ⭐ 76,863 | 🐛 315 | 🌐 JavaScript | 📅 2026-07-15
 * [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello) ⭐ 7,083 | 🐛 66 | 🌐 JavaScript | 📅 2022-12-31
 * [Animaticons](http://animaticons.co/) — a growing set of beautiful, high-resolution, animated GIF icons that you can customize.
 * [CoreUI Icons](https://coreui.io/icons/) — premium designed free icon set with marks in SVG, Webfont and raster formats. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -667,7 +667,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 
 <div class="banner banner--yellow">
 
-You can also handle icons with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
+You can also handle icons with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
 
 </div>
 
@@ -687,6 +687,7 @@ You can also handle icons with Specify, which is mentioned in the [Design System
 
 Illustrations can be used on your landing page, blog posts, inside your app or email campaign. They make your design live and playful. While drawing good illustration is a task of a skilled graphic designer, you can grab free SVG images & illustrations from very kind people in our community:
 
+* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) ⭐ 578 | 🐛 1 | 📅 2019-08-06 — big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Absurd Design](https://absurd.design) — free surrealist illustrations for your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Blobmaker](https://www.blobmaker.app/) — create vector blob illustrations in the browser, with varying colour, complexity and contrast. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Blush](https://blush.design/) — create, mix and customize illustrations made by artists around the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -696,7 +697,6 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 * [JoeSchmoe](https://joeschmoe.io) — an illustrated avatar collection for developers and designers, perfect as placeholders or live sites. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [LukaszAdam](https://lukaszadam.com/illustrations) — free vector art illustrations and icons. They are available for personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ManyPixels](https://gallery.manypixels.co) — royalty-free illustrations to power up your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) ⭐ 578 | 🐛 1 | 📅 2019-08-06 — big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Open Doodles](https://www.opendoodles.com/) — a set of free illustrations by Pablo Stanley that embraces the idea of Open Design. You can copy, edit, remix, share, or redraw these images for any purpose without restriction under copyright or database law (CC0 license.). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Ouch](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Squircley](https://squircley.app/) - all you need to start creating beautiful SVG squircles. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -742,7 +742,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 
 <div class="banner banner--yellow">
 
-You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
+You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
 
 </div>
 
@@ -762,6 +762,7 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:
 
+* [Screeener](https://github.com/zehfernandes/screeener) ⭐ 63 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-18 — use this app to insert a bunch of images to a keynote file, using the mockup you choose.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Artboard Studio](https://artboard.studio/) — online graphic design application mainly focused on product mockups.
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using the latest device frames like iPhone & custom backgrounds.
 * [Craftwork Design](https://craftwork.design/) — free and premium high-quality digital products that make your work faster and easier.
@@ -786,7 +787,6 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 * [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Screenzy](https://screenzy.io) — instantly transform your pictures and screenshots into beautiful mockups ready to be shared on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Screeener](https://github.com/zehfernandes/screeener) ⭐ 63 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-18 — use this app to insert a bunch of images to a keynote file, using the mockup you choose.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 * [shotsnapp](https://shotsnapp.com/) — create beautiful device mockup presentation for your digital app and website design.
 * [The Mockup Club](https://themockup.club/) — a directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -896,8 +896,8 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:
 
-* [Kap](https://getkap.co) — open source screen recorder with options to export to GIF, MP4, WebM and APNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ⭐ 19,334 | 🐛 262 | 🌐 TypeScript | 📅 2024-11-12 ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [ScreenToGif](https://www.screentogif.com/) — record a gif of part of the screen. Only available for Windows. ![web.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ⭐ 19,334 | 🐛 262 | 🌐 TypeScript | 📅 2024-11-12
+* [Kap](https://getkap.co) — open source screen recorder with options to export to GIF, MP4, WebM and APNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ⭐ 19,334 | 🐛 254 | 🌐 TypeScript | 📅 2024-11-12 ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [ScreenToGif](https://www.screentogif.com/) — record a gif of part of the screen. Only available for Windows. ![web.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ⭐ 19,334 | 🐛 254 | 🌐 TypeScript | 📅 2024-11-12
 * [Camtasia](https://www.techsmith.com/video-editor.html) — a screen recorder that comes with a full-blown built-in editor.
 * [CleanShot](https://getcleanshot.com) — capture your screen in a superior way with a built-in annotation tool and Quick Access Overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs.
@@ -928,14 +928,14 @@ Taking screenshots is a typical task in the design & development workflow. So th
 
 Sometimes you need just a pencil and paper to start creating your app or website. So here are you can find online sketching tools with great sketch sheet templates to speed up your creative process:
 
-* [Responsive Sketchsheets](https://zurb.com/playground/responsive-sketchsheets) — offers responsive pre-design templates. These will automatically adapt their layout to any screen size and include neat features. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Sketchsheets](https://sketchsheets.com/) — an open source project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/rnarrkus/sketchsheets) ⭐ 273 | 🐛 1 | 🌐 HTML | 📅 2019-03-18
+* [Responsive Sketchsheets](https://zurb.com/playground/responsive-sketchsheets) — offers responsive pre-design templates. These will automatically adapt their layout to any screen size and include neat features. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Sketchize](https://sketchize.com/) — just choose any of the sketch sheets that fits your project, print it out and start to sketch your dream. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">
 
-You can also do some sketching with Sketch mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
+You can also do some sketching with Sketch mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
 
 </div>
 
@@ -1076,9 +1076,9 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 What are the best UI design tools in 2019? You can pick any of the tools below and it will allow you to do dozens of design tasks — UI for site or mobile, wireframe, prototype, animation, logo. These are great and fully-functional tools for UX & UI designers:
 
+* [Akira](https://github.com/akiraux/Akira) ⭐ 5,337 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 — native Linux App for UI and UX Design built in Vala and Gtk. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — a vector graphics editor for macOS, iOS, and Microsoft Windows.
-* [Akira](https://github.com/akiraux/Akira) ⭐ 5,337 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 — native Linux App for UI and UX Design built in Vala and Gtk. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Botmock](https://www.botmock.com) — design, prototype, and test voice and text conversational apps. Supports multiple platforms.
 * [CleverBrush](https://www.cleverbrush.com/) — a browser-based online vector editor and digital publishing tool which is possible to integrate to the page as JS component.
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
@@ -1113,6 +1113,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 
 User flow is a series of steps a user takes to achieve a meaningful goal. It's a fast way to plan customer journey paths and improve UX. So if you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 
+* [Wireflow](http://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ⭐ 4,161 | 🐛 31 | 🌐 JavaScript | 📅 2024-09-28 ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Draw.io](https://www.draw.io/) — a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER, and network diagrams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Flowmapp](https://flowmapp.com/) — an online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -1125,7 +1126,6 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 * [SQUID](https://uxmisfit.com/squid/) — create beautiful User Flows in Sketch in just minutes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) — a simple webapp to work out object interactions arranged in time sequence. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
-* [Wireflow](http://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ⭐ 4,162 | 🐛 31 | 🌐 JavaScript | 📅 2024-09-28 ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts.
 * [yEd](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for the wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
@@ -1173,9 +1173,9 @@ User research helps you understand user behaviors, needs, and motivations throug
 
 ### Visual Debugging Tools
 
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⭐ 5,769 | 🐛 245 | 🌐 JavaScript | 📅 2026-08-03 — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ⭐ 5,769 | 🐛 245 | 🌐 JavaScript | 📅 2026-08-03 ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
 * [PixelSnap](https://getpixelsnap.com) — the magical way to measure everything on your screen. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⭐ 5,769 | 🐛 245 | 🌐 JavaScript | 📅 2026-08-03 — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ⭐ 5,769 | 🐛 245 | 🌐 JavaScript | 📅 2026-08-03 ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 
 </article>
@@ -1232,7 +1232,7 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 
 ### Addendum (Reference & Inspiration)
 
-Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,979 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28. Thanks for making this project awesome :)
+Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,986 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28. Thanks for making this project awesome :)
 
 </article>
 
