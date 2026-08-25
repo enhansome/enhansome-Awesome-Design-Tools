@@ -2,9 +2,9 @@
 
 # Awesome Design Tools with stars
 
-* [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
-* [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
-* [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
+* [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
+* [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
+* [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
 
 <p align="center">
     <a href="https://flawlessapp.io/designtools">
@@ -36,11 +36,11 @@ Our team has joined Abstract and is focused on building out the [Abstract SDK](h
 
 ## How to Use and Contribute
 
-* Now you are in the **Awesome Design Tools** section, if you need plugins — go to [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
+* Now you are in the **Awesome Design Tools** section, if you need plugins — go to [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
 * To find the tool, go through the Table of Contents or search for a keyword (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 (they're very simple, please take a look). Design tools should be submitted here and plugins in [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 file. We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
+If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 (they're very simple, please take a look). Design tools should be submitted here and plugins in [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 file. We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
 
 </div>
 
@@ -121,7 +121,7 @@ Accessibility is the practice of creating websites and apps usable for all peopl
 
 <div class="banner banner--yellow">
 
-Accessibility checking features are also available in VisBug from the [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 category.
+Accessibility checking features are also available in VisBug from the [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 category.
 
 </div>
 
@@ -572,7 +572,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 
 <div class="banner banner--yellow">
 
-You can also handle fonts with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
+You can also handle fonts with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
 
 </div>
 
@@ -667,7 +667,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 
 <div class="banner banner--yellow">
 
-You can also handle icons with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
+You can also handle icons with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28 section.
 
 </div>
 
@@ -742,7 +742,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 
 <div class="banner banner--yellow">
 
-You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
+You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
 
 </div>
 
@@ -935,7 +935,7 @@ Sometimes you need just a pencil and paper to start creating your app or website
 
 <div class="banner banner--yellow">
 
-You can also do some sketching with Sketch mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
+You can also do some sketching with Sketch mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28.
 
 </div>
 
@@ -1232,7 +1232,7 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 
 ### Addendum (Reference & Inspiration)
 
-Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,991 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28. Thanks for making this project awesome :)
+Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28. Thanks for making this project awesome :)
 
 </article>
 
