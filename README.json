@@ -15,7 +15,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40993
+            "stars": 41007
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40993
+            "stars": 41007
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40993
+            "stars": 41007
           }
         }
       ],
@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 37205440,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T17:25:46Z",
+                "last_commit": "2026-08-27T11:07:02Z",
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7445
+                "stars": 7447
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2024-01-12T23:19:54Z",
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12323
+                "stars": 12324
               }
             },
             {
@@ -209,7 +209,7 @@
                 "last_commit": "2025-01-07T10:44:29Z",
                 "owner": "styleguidist",
                 "repo": "react-styleguidist",
-                "stars": 11067
+                "stars": 11066
               }
             }
           ],
@@ -231,7 +231,7 @@
                 "last_commit": "2026-02-27T14:45:40Z",
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13052
+                "stars": 13055
               }
             },
             {
@@ -268,7 +268,7 @@
                 "last_commit": "2026-07-15T18:15:53Z",
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76868
+                "stars": 76882
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2019-08-06T12:37:54Z",
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 578
+                "stars": 579
               }
             }
           ],
@@ -349,7 +349,7 @@
                 "last_commit": "2021-12-23T16:04:56Z",
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3456
+                "stars": 3457
               }
             }
           ],
@@ -393,7 +393,7 @@
                 "last_commit": "2024-11-12T15:32:40Z",
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19335
+                "stars": 19339
               }
             },
             {
@@ -408,7 +408,7 @@
                 "last_commit": "2024-11-12T15:32:40Z",
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19335
+                "stars": 19339
               }
             }
           ],
@@ -474,7 +474,7 @@
                 "last_commit": "2024-09-28T19:22:24Z",
                 "owner": "vanila-io",
                 "repo": "wireflow",
-                "stars": 4161
+                "stars": 4160
               }
             }
           ],
@@ -509,9 +509,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:54:01.008Z",
-    "original_repository": "goabstract/Awesome-Design-Tools",
-    "original_repository_id": 170326929,
+    "last_updated": "2026-08-27T11:24:32.060Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 170326929,
+      "language": "JavaScript",
+      "last_commit": "2024-07-28T19:57:31Z",
+      "owner": "goabstract",
+      "repo": "Awesome-Design-Tools",
+      "stars": 41007
+    },
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
     "enhanced_repository_description": null,
