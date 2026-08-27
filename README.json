@@ -65,7 +65,7 @@
                 "archived": false,
                 "id": 37205440,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:07:02Z",
+                "last_commit": "2026-08-27T11:55:15Z",
                 "owner": "dequelabs",
                 "repo": "axe-core",
                 "stars": 7447
@@ -268,7 +268,7 @@
                 "last_commit": "2026-07-15T18:15:53Z",
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76882
+                "stars": 76883
               }
             },
             {
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:32.060Z",
+    "last_updated": "2026-08-27T12:14:59.851Z",
     "original_repository_info": {
       "archived": false,
       "id": 170326929,
