@@ -15,8 +15,9 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41007
-          }
+            "stars": 41017
+          },
+          "first_seen": "2026-08-28T13:24:36.817Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41007
-          }
+            "stars": 41017
+          },
+          "first_seen": "2026-08-28T13:24:36.817Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41007
-          }
+            "stars": 41017
+          },
+          "first_seen": "2026-08-28T13:24:36.817Z"
         }
       ],
       "title": "Overview"
@@ -65,11 +68,12 @@
                 "archived": false,
                 "id": 37205440,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:55:15Z",
+                "last_commit": "2026-08-28T03:30:11Z",
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7447
-              }
+                "stars": 7452
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "SSAgov",
                 "repo": "ANDI",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "toolness",
                 "repo": "accessible-color-matrix",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "chialab",
                 "repo": "a11ygator-app",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "Accessibility is the practice of creating websites and apps usable for all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:\nAccessibility checking features are also available in VisBug from the Visual Debugging Tools category.",
@@ -136,7 +143,8 @@
                 "owner": "casesandberg",
                 "repo": "react-color",
                 "stars": 12324
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "BafS",
                 "repo": "Material-Colors-native",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "obscuredetour",
                 "repo": "color-deck",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "If you are looking for an eyedropper tool, color identifier or color capture, check this section. With the color pickers mentioned here, you will be able to create new color combinations and define great ones. Almost all of these tools are free:\nYou can also create color palettes with Leonardo, which is mentioned in the Accessibility Tools section.",
@@ -188,7 +198,8 @@
                 "owner": "utom",
                 "repo": "sketch-measure",
                 "stars": 6853
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "Design handoff happens when designers finish the work and need to deliver designs to developers with all specs and assets. Design handoff tools allow to automatically generate style guide, comment on the design, inspect elements. These tools minimize guesswork and improve the effectiveness of the design process.\nYou can also make a design handoff within Relay, mentioned in the Design Version Control section.",
@@ -210,7 +221,8 @@
                 "owner": "styleguidist",
                 "repo": "react-styleguidist",
                 "stars": 11066
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "This section mentions development tools and browsers. Development browsers have features that help developers and designers create and test websites and apps.",
@@ -231,8 +243,9 @@
                 "last_commit": "2026-02-27T14:45:40Z",
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13055
-              }
+                "stars": 13056
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -247,7 +260,8 @@
                 "owner": "jonaskay",
                 "repo": "webfontpreview",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "Fonts are commonly used for making the web a more beautiful place. It’s an essential part of any design. In this section, you’ll find fonts generators & font finder tools that allow you to manage and work with fonts:\nYou can also handle fonts with Specify, which is mentioned in the Design System Tools section.",
@@ -268,8 +282,9 @@
                 "last_commit": "2026-07-15T18:15:53Z",
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76883
-              }
+                "stars": 76886
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -284,7 +299,8 @@
                 "owner": "fontello",
                 "repo": "fontello",
                 "stars": 7083
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "As well as fonts, icons are used in every design. These basic elements support and guide many user actions inside the product. Without a doubt, icons are a vital element in user navigation. While making those small design elements is hard and time-consuming, you can get thousands of vector icons for personal and commercial use.\nYou can also handle icons with Specify, which is mentioned in the Design System Tools section.",
@@ -306,7 +322,8 @@
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "Illustrations can be used on your landing page, blog posts, inside your app or email campaign. They make your design live and playful. While drawing good illustration is a task of a skilled graphic designer, you can grab free SVG images & illustrations from very kind people in our community:",
@@ -328,7 +345,8 @@
                 "owner": "zehfernandes",
                 "repo": "screeener",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:",
@@ -349,8 +367,9 @@
                 "last_commit": "2021-12-23T16:04:56Z",
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3457
-              }
+                "stars": 3458
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "Pixel art is a digital art form where color is applied to individual pixels to create an image. The pixel art can be used to create everything from intricate scenes and game backgrounds to character designs or emoji. If you feel curious to try, check this pixel art software for both macOS and Windows:",
@@ -372,7 +391,8 @@
                 "owner": "meetalva",
                 "repo": "alva",
                 "stars": 3696
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "A prototype is a simple experimental design of a proposed solution. It should help to test ideas, design assumptions, and hypotheses in a fast and cheap way. Prototyping tools allow designers and clients to see how the product would function in the real world and collaborate on this solution. Many modern prototyping tools can use for wireframing, prototyping, and collaboration:\nYou can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the UI Design Tools section.",
@@ -394,7 +414,8 @@
                 "owner": "wulkano",
                 "repo": "Kap",
                 "stars": 19339
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             },
             {
               "node_type": "item",
@@ -409,7 +430,8 @@
                 "owner": "wulkano",
                 "repo": "Kap",
                 "stars": 19339
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:",
@@ -431,7 +453,8 @@
                 "owner": "mrk-us",
                 "repo": "sketchsheets",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "Sometimes you need just a pencil and paper to start creating your app or website. So here are you can find online sketching tools with great sketch sheet templates to speed up your creative process:\nYou can also do some sketching with Sketch mentioned in UI design tools.",
@@ -453,7 +476,8 @@
                 "owner": "akiraux",
                 "repo": "Akira",
                 "stars": 5337
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "What are the best UI design tools in 2019? You can pick any of the tools below and it will allow you to do dozens of design tasks — UI for site or mobile, wireframe, prototype, animation, logo. These are great and fully-functional tools for UX & UI designers:",
@@ -475,7 +499,8 @@
                 "owner": "vanila-io",
                 "repo": "wireflow",
                 "stars": 4160
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": "User flow is a series of steps a user takes to achieve a meaningful goal. It's a fast way to plan customer journey paths and improve UX. So if you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:",
@@ -497,7 +522,8 @@
                 "owner": "GoogleChromeLabs",
                 "repo": "ProjectVisBug",
                 "stars": 5769
-              }
+              },
+              "first_seen": "2026-08-28T13:24:36.817Z"
             }
           ],
           "description": null,
@@ -509,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:59.851Z",
+    "last_updated": "2026-08-28T13:24:36.817Z",
     "original_repository_info": {
       "archived": false,
       "id": 170326929,
@@ -517,7 +543,7 @@
       "last_commit": "2024-07-28T19:57:31Z",
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41007
+      "stars": 41017
     },
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
