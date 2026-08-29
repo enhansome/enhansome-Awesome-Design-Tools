@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best design tools and plugins for everything 👉",
+            "homepage": null,
             "id": 170326929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
+            "open_issues": 193,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41017
+            "stars": 41019,
+            "topics": [
+              "animations",
+              "awesome",
+              "awesome-list",
+              "design",
+              "design-systems",
+              "design-tools",
+              "font-awesome",
+              "ui-design"
+            ]
           },
           "first_seen": "2026-08-28T13:24:36.817Z"
         },
@@ -26,12 +40,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best design tools and plugins for everything 👉",
+            "homepage": null,
             "id": 170326929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
+            "open_issues": 193,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41017
+            "stars": 41019,
+            "topics": [
+              "animations",
+              "awesome",
+              "awesome-list",
+              "design",
+              "design-systems",
+              "design-tools",
+              "font-awesome",
+              "ui-design"
+            ]
           },
           "first_seen": "2026-08-28T13:24:36.817Z"
         },
@@ -42,12 +70,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best design tools and plugins for everything 👉",
+            "homepage": null,
             "id": 170326929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
+            "open_issues": 193,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41017
+            "stars": 41019,
+            "topics": [
+              "animations",
+              "awesome",
+              "awesome-list",
+              "design",
+              "design-systems",
+              "design-tools",
+              "font-awesome",
+              "ui-design"
+            ]
           },
           "first_seen": "2026-08-28T13:24:36.817Z"
         }
@@ -66,12 +108,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accessibility engine for automated Web UI testing",
+                "homepage": "https://www.deque.com/axe/",
                 "id": 37205440,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T03:30:11Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-28T22:21:05Z",
+                "open_issues": 434,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7452
+                "stars": 7451,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "axe"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -82,12 +133,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to test web content for accessibility and 508 compliance.",
+                "homepage": "https://www.ssa.gov/accessibility/andi/help/howtouse.html",
                 "id": 99740209,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-04T17:14:04Z",
+                "open_issues": 67,
                 "owner": "SSAgov",
                 "repo": "ANDI",
-                "stars": 394
+                "stars": 394,
+                "topics": [
+                  "508",
+                  "accessibility",
+                  "bookmarklet",
+                  "favelet",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -98,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Elm-based prototype to help designers build accessible color palettes.",
+                "homepage": "https://toolness.github.io/accessible-color-matrix/",
                 "id": 77783817,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-30T23:52:13Z",
+                "open_issues": 17,
                 "owner": "toolness",
                 "repo": "accessible-color-matrix",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -114,12 +181,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐊 An application and Twitter bot that bites websites to taste their accessibility.",
+                "homepage": "https://a11ygator.chialab.io",
                 "id": 176976174,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-09T04:12:27Z",
+                "open_issues": 16,
                 "owner": "chialab",
                 "repo": "a11ygator-app",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "aws",
+                  "nodejs",
+                  "serverless",
+                  "twitter-bot"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -137,12 +216,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more",
+                "homepage": "http://casesandberg.github.io/react-color/",
                 "id": 40446628,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-12T23:19:54Z",
+                "open_issues": 230,
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12324
+                "stars": 12323,
+                "topics": [
+                  "chrome",
+                  "color-picker",
+                  "inline-styles",
+                  "photoshop",
+                  "react",
+                  "react-component",
+                  "sketch"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -153,12 +245,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Colors - A React Native App to Select Material Colors for macOS.",
+                "homepage": null,
                 "id": 54855991,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-01T16:34:52Z",
+                "open_issues": 3,
                 "owner": "BafS",
                 "repo": "Material-Colors-native",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "app",
+                  "design",
+                  "macos",
+                  "material",
+                  "material-colors",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -169,12 +273,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color Deck is a color palette collector made for humans.",
+                "homepage": "https://color.obscuredetour.com/",
                 "id": 164179517,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-12-08T09:38:21Z",
+                "open_issues": 9,
                 "owner": "obscuredetour",
                 "repo": "color-deck",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "color",
+                  "color-palette",
+                  "color-scheme",
+                  "hsl",
+                  "javascript",
+                  "palette"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -192,12 +308,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make it a fun to create spec for developers and teammates",
+                "homepage": "http://utom.design/measure",
                 "id": 18256968,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-07-30T07:06:02Z",
+                "open_issues": 409,
                 "owner": "utom",
                 "repo": "sketch-measure",
-                "stars": 6853
+                "stars": 6853,
+                "topics": [
+                  "design-specs",
+                  "javascript",
+                  "measurement",
+                  "sketch-plugin",
+                  "spec"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -215,12 +342,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Isolated React component development environment with a living style guide",
+                "homepage": "https://react-styleguidist.js.org/",
                 "id": 42033086,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-07T10:44:29Z",
+                "open_issues": 245,
                 "owner": "styleguidist",
                 "repo": "react-styleguidist",
-                "stars": 11066
+                "stars": 11066,
+                "topics": [
+                  "documentation",
+                  "hacktoberfest",
+                  "react",
+                  "styleguide"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -238,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets",
+                "homepage": "https://gwfh.mranftl.com",
                 "id": 28320207,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-27T14:45:40Z",
+                "open_issues": 63,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13056
+                "stars": 13057,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -254,12 +396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preview Google Fonts on a real website",
+                "homepage": "https://webfontpreview.com",
                 "id": 195513796,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T03:47:10Z",
+                "open_issues": 45,
                 "owner": "jonaskay",
                 "repo": "webfontpreview",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -277,12 +424,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The iconic SVG, font, and CSS toolkit",
+                "homepage": "https://fontawesome.com",
                 "id": 3470471,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-15T18:15:53Z",
+                "open_issues": 315,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76886
+                "stars": 76886,
+                "topics": [
+                  "css",
+                  "font",
+                  "fontawesome",
+                  "icons",
+                  "svg-icons",
+                  "svg-sprites",
+                  "webfont"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -293,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Iconic fonts scissors",
+                "homepage": "http://fontello.com",
                 "id": 3411652,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-31T23:41:36Z",
+                "open_issues": 66,
                 "owner": "fontello",
                 "repo": "fontello",
-                "stars": 7083
+                "stars": 7084,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -316,12 +481,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on ",
+                "homepage": null,
                 "id": 200847230,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-08-06T12:37:54Z",
+                "open_issues": 1,
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "blog",
+                  "clipart",
+                  "doodle",
+                  "doodles",
+                  "free",
+                  "icons",
+                  "illustrations",
+                  "images",
+                  "pictures",
+                  "png",
+                  "presentations",
+                  "social-media",
+                  "svg",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -339,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Insert a bunch of images to keynote magically. 💫",
+                "homepage": "https://zehfernandes.github.io/screeener/",
                 "id": 95638831,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2019-04-18T14:35:37Z",
+                "open_issues": 2,
                 "owner": "zehfernandes",
                 "repo": "screeener",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -362,12 +552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.",
+                "homepage": null,
                 "id": 91508323,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-12-23T16:04:56Z",
+                "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3458
+                "stars": 3458,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -385,12 +580,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Create living prototypes with code components.",
+                "homepage": "https://meetalva.io",
                 "id": 110887441,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-06-24T23:01:00Z",
+                "open_issues": 92,
                 "owner": "meetalva",
                 "repo": "alva",
-                "stars": 3696
+                "stars": 3696,
+                "topics": [
+                  "components",
+                  "design",
+                  "design-system",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -408,12 +613,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source screen recorder built with web technology",
+                "homepage": "https://getkap.co",
                 "id": 65411043,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
+                "open_issues": 254,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19339
+                "stars": 19341,
+                "topics": [
+                  "aperture",
+                  "app",
+                  "capture",
+                  "communication",
+                  "electron",
+                  "javascript",
+                  "kap",
+                  "mac",
+                  "macos",
+                  "nextjs",
+                  "open-source",
+                  "oss",
+                  "productivity",
+                  "record",
+                  "screen-capture",
+                  "screen-recorder"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             },
@@ -424,12 +651,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source screen recorder built with web technology",
+                "homepage": "https://getkap.co",
                 "id": 65411043,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
+                "open_issues": 254,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19339
+                "stars": 19341,
+                "topics": [
+                  "aperture",
+                  "app",
+                  "capture",
+                  "communication",
+                  "electron",
+                  "javascript",
+                  "kap",
+                  "mac",
+                  "macos",
+                  "nextjs",
+                  "open-source",
+                  "oss",
+                  "productivity",
+                  "record",
+                  "screen-capture",
+                  "screen-recorder"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -447,12 +696,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free ready to print sketch sheet templates for UX designers",
+                "homepage": "https://sketchsheets.com",
                 "id": 51224610,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2019-03-18T22:36:01Z",
+                "open_issues": 1,
                 "owner": "mrk-us",
                 "repo": "sketchsheets",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "design",
+                  "design-tools",
+                  "printing",
+                  "sketch",
+                  "sketch-sheets",
+                  "templates",
+                  "ui",
+                  "ux",
+                  "ux-design",
+                  "wireframes"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -470,12 +735,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Linux App for UI and UX Design built in Vala and GTK",
+                "homepage": null,
                 "id": 91653269,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-30T23:56:04Z",
+                "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5337
+                "stars": 5337,
+                "topics": [
+                  "appcenter",
+                  "design",
+                  "gtk",
+                  "hacktoberfest",
+                  "linux",
+                  "ui",
+                  "ux",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -493,12 +772,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wireflow - user flow chart real-time collaborative tool",
+                "homepage": "https://wireflow.co",
                 "id": 109592396,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-28T19:22:24Z",
+                "open_issues": 31,
                 "owner": "vanila-io",
                 "repo": "wireflow",
-                "stars": 4160
+                "stars": 4160,
+                "topics": [
+                  "collaboration",
+                  "flowchart",
+                  "hacktoberfest",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -516,12 +805,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug",
+                "homepage": "https://visbug.web.app",
                 "id": 137987910,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T01:35:42Z",
+                "open_issues": 246,
                 "owner": "GoogleChromeLabs",
                 "repo": "ProjectVisBug",
-                "stars": 5769
+                "stars": 5769,
+                "topics": [
+                  "debugging-tool",
+                  "design-tools",
+                  "extension",
+                  "inspector",
+                  "toolkit",
+                  "wsiwyg"
+                ]
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
             }
@@ -535,15 +836,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:36.817Z",
+    "last_updated": "2026-08-29T04:12:20.377Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The best design tools and plugins for everything 👉",
+      "homepage": null,
       "id": 170326929,
       "language": "JavaScript",
+      "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
+      "open_issues": 193,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41017
+      "stars": 41019,
+      "topics": [
+        "animations",
+        "awesome",
+        "awesome-list",
+        "design",
+        "design-systems",
+        "design-tools",
+        "font-awesome",
+        "ui-design"
+      ]
     },
     "original_repository_sha": "dc60e63c248c44acb42f09fb0c985b77b5fe4bf5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Design-Tools",
