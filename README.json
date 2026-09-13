@@ -19,7 +19,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41177,
+            "stars": 41189,
             "topics": [
               "animations",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41177,
+            "stars": 41189,
             "topics": [
               "animations",
               "awesome",
@@ -79,7 +79,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41177,
+            "stars": 41189,
             "topics": [
               "animations",
               "awesome",
@@ -117,7 +117,7 @@
                 "open_issues": 449,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7501,
+                "stars": 7503,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -169,7 +169,7 @@
                 "open_issues": 17,
                 "owner": "toolness",
                 "repo": "accessible-color-matrix",
-                "stars": 344,
+                "stars": 346,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -225,7 +225,7 @@
                 "open_issues": 229,
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12321,
+                "stars": 12322,
                 "topics": [
                   "chrome",
                   "color-picker",
@@ -351,7 +351,7 @@
                 "open_issues": 245,
                 "owner": "styleguidist",
                 "repo": "react-styleguidist",
-                "stars": 11066,
+                "stars": 11065,
                 "topics": [
                   "documentation",
                   "hacktoberfest",
@@ -433,7 +433,7 @@
                 "open_issues": 315,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76919,
+                "stars": 76924,
                 "topics": [
                   "css",
                   "font",
@@ -490,7 +490,7 @@
                 "open_issues": 1,
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 581,
+                "stars": 580,
                 "topics": [
                   "blog",
                   "clipart",
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3464,
+                "stars": 3466,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -622,7 +622,7 @@
                 "open_issues": 256,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19351,
+                "stars": 19352,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 256,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19351,
+                "stars": 19352,
                 "topics": [
                   "aperture",
                   "app",
@@ -781,7 +781,7 @@
                 "open_issues": 31,
                 "owner": "vanila-io",
                 "repo": "wireflow",
-                "stars": 4163,
+                "stars": 4164,
                 "topics": [
                   "collaboration",
                   "flowchart",
@@ -814,7 +814,7 @@
                 "open_issues": 246,
                 "owner": "GoogleChromeLabs",
                 "repo": "ProjectVisBug",
-                "stars": 5769,
+                "stars": 5768,
                 "topics": [
                   "debugging-tool",
                   "design-tools",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:33:16.226Z",
+    "last_updated": "2026-09-13T06:48:38.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -848,7 +848,7 @@
       "open_issues": 204,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41177,
+      "stars": 41189,
       "topics": [
         "animations",
         "awesome",
