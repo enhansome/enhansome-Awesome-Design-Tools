@@ -19,7 +19,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41198,
+            "stars": 41213,
             "topics": [
               "animations",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41198,
+            "stars": 41213,
             "topics": [
               "animations",
               "awesome",
@@ -79,7 +79,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41198,
+            "stars": 41213,
             "topics": [
               "animations",
               "awesome",
@@ -113,11 +113,11 @@
                 "id": 37205440,
                 "language": "JavaScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-11T15:30:31Z",
-                "open_issues": 450,
+                "last_commit": "2026-09-14T22:44:43Z",
+                "open_issues": 445,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7508,
+                "stars": 7509,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -384,7 +384,7 @@
                 "open_issues": 63,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13067,
+                "stars": 13068,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -433,7 +433,7 @@
                 "open_issues": 315,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76925,
+                "stars": 76922,
                 "topics": [
                   "css",
                   "font",
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3468,
+                "stars": 3469,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -622,7 +622,7 @@
                 "open_issues": 256,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19352,
+                "stars": 19353,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 256,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19352,
+                "stars": 19353,
                 "topics": [
                   "aperture",
                   "app",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:12:54.709Z",
+    "last_updated": "2026-09-15T06:47:53.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -848,7 +848,7 @@
       "open_issues": 204,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41198,
+      "stars": 41213,
       "topics": [
         "animations",
         "awesome",
