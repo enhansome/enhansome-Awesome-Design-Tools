@@ -19,7 +19,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41213,
+            "stars": 41219,
             "topics": [
               "animations",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41213,
+            "stars": 41219,
             "topics": [
               "animations",
               "awesome",
@@ -79,7 +79,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41213,
+            "stars": 41219,
             "topics": [
               "animations",
               "awesome",
@@ -111,13 +111,13 @@
                 "description": "Accessibility engine for automated Web UI testing",
                 "homepage": "https://www.deque.com/axe/",
                 "id": 37205440,
-                "language": "JavaScript",
+                "language": "HTML",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-14T22:44:43Z",
-                "open_issues": 445,
+                "last_commit": "2026-09-15T22:13:03Z",
+                "open_issues": 446,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7509,
+                "stars": 7512,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -225,7 +225,7 @@
                 "open_issues": 229,
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12322,
+                "stars": 12321,
                 "topics": [
                   "chrome",
                   "color-picker",
@@ -433,7 +433,7 @@
                 "open_issues": 315,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76922,
+                "stars": 76926,
                 "topics": [
                   "css",
                   "font",
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3469,
+                "stars": 3470,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -619,10 +619,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
-                "open_issues": 256,
+                "open_issues": 257,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19353,
+                "stars": 19354,
                 "topics": [
                   "aperture",
                   "app",
@@ -657,10 +657,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
-                "open_issues": 256,
+                "open_issues": 257,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19353,
+                "stars": 19354,
                 "topics": [
                   "aperture",
                   "app",
@@ -804,7 +804,7 @@
               "description": "on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug",
                 "homepage": "https://visbug.web.app",
                 "id": 137987910,
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:47:53.737Z",
+    "last_updated": "2026-09-16T06:52:27.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -848,7 +848,7 @@
       "open_issues": 204,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41213,
+      "stars": 41219,
       "topics": [
         "animations",
         "awesome",
