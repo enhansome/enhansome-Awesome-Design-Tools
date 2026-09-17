@@ -19,7 +19,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41219,
+            "stars": 41227,
             "topics": [
               "animations",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41219,
+            "stars": 41227,
             "topics": [
               "animations",
               "awesome",
@@ -79,7 +79,7 @@
             "open_issues": 204,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41219,
+            "stars": 41227,
             "topics": [
               "animations",
               "awesome",
@@ -113,11 +113,11 @@
                 "id": 37205440,
                 "language": "HTML",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-15T22:13:03Z",
-                "open_issues": 446,
+                "last_commit": "2026-09-16T23:17:31Z",
+                "open_issues": 437,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7512,
+                "stars": 7518,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -142,7 +142,7 @@
                 "open_issues": 67,
                 "owner": "SSAgov",
                 "repo": "ANDI",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "508",
                   "accessibility",
@@ -384,7 +384,7 @@
                 "open_issues": 63,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13068,
+                "stars": 13067,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -433,7 +433,7 @@
                 "open_issues": 315,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76926,
+                "stars": 76924,
                 "topics": [
                   "css",
                   "font",
@@ -622,7 +622,7 @@
                 "open_issues": 257,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19354,
+                "stars": 19356,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 257,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19354,
+                "stars": 19356,
                 "topics": [
                   "aperture",
                   "app",
@@ -781,7 +781,7 @@
                 "open_issues": 31,
                 "owner": "vanila-io",
                 "repo": "wireflow",
-                "stars": 4163,
+                "stars": 4162,
                 "topics": [
                   "collaboration",
                   "flowchart",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:52:27.987Z",
+    "last_updated": "2026-09-17T06:46:44.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -848,7 +848,7 @@
       "open_issues": 204,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41219,
+      "stars": 41227,
       "topics": [
         "animations",
         "awesome",
