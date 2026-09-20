@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 205,
+            "open_issues": 207,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41241,
+            "stars": 41251,
             "topics": [
               "animations",
               "awesome",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 205,
+            "open_issues": 207,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41241,
+            "stars": 41251,
             "topics": [
               "animations",
               "awesome",
@@ -76,10 +76,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 205,
+            "open_issues": 207,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41241,
+            "stars": 41251,
             "topics": [
               "animations",
               "awesome",
@@ -114,10 +114,10 @@
                 "language": "HTML",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-18T18:02:42Z",
-                "open_issues": 438,
+                "open_issues": 439,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7531,
+                "stars": 7534,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -351,7 +351,7 @@
                 "open_issues": 245,
                 "owner": "styleguidist",
                 "repo": "react-styleguidist",
-                "stars": 11065,
+                "stars": 11064,
                 "topics": [
                   "documentation",
                   "hacktoberfest",
@@ -433,7 +433,7 @@
                 "open_issues": 315,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76930,
+                "stars": 76933,
                 "topics": [
                   "css",
                   "font",
@@ -459,7 +459,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2022-12-31T23:41:36Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "fontello",
                 "repo": "fontello",
                 "stars": 7084,
@@ -490,7 +490,7 @@
                 "open_issues": 1,
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 582,
+                "stars": 583,
                 "topics": [
                   "blog",
                   "clipart",
@@ -622,7 +622,7 @@
                 "open_issues": 258,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19359,
+                "stars": 19360,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 258,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19359,
+                "stars": 19360,
                 "topics": [
                   "aperture",
                   "app",
@@ -744,7 +744,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5341,
+                "stars": 5342,
                 "topics": [
                   "appcenter",
                   "design",
@@ -781,7 +781,7 @@
                 "open_issues": 31,
                 "owner": "vanila-io",
                 "repo": "wireflow",
-                "stars": 4164,
+                "stars": 4166,
                 "topics": [
                   "collaboration",
                   "flowchart",
@@ -814,7 +814,7 @@
                 "open_issues": 246,
                 "owner": "GoogleChromeLabs",
                 "repo": "ProjectVisBug",
-                "stars": 5769,
+                "stars": 5768,
                 "topics": [
                   "debugging-tool",
                   "design-tools",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:42:43.842Z",
+    "last_updated": "2026-09-20T07:06:50.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -845,10 +845,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
-      "open_issues": 205,
+      "open_issues": 207,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41241,
+      "stars": 41251,
       "topics": [
         "animations",
         "awesome",
