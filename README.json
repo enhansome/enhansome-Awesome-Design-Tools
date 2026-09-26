@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 207,
+            "open_issues": 210,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41313,
+            "stars": 41323,
             "topics": [
               "animations",
               "awesome",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 207,
+            "open_issues": 210,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41313,
+            "stars": 41323,
             "topics": [
               "animations",
               "awesome",
@@ -76,10 +76,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 207,
+            "open_issues": 210,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41313,
+            "stars": 41323,
             "topics": [
               "animations",
               "awesome",
@@ -114,10 +114,10 @@
                 "language": "HTML",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-23T23:11:44Z",
-                "open_issues": 442,
+                "open_issues": 447,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7555,
+                "stars": 7557,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -225,7 +225,7 @@
                 "open_issues": 229,
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12318,
+                "stars": 12319,
                 "topics": [
                   "chrome",
                   "color-picker",
@@ -384,7 +384,7 @@
                 "open_issues": 63,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13069,
+                "stars": 13070,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -433,7 +433,7 @@
                 "open_issues": 316,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76949,
+                "stars": 76951,
                 "topics": [
                   "css",
                   "font",
@@ -622,7 +622,7 @@
                 "open_issues": 258,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19374,
+                "stars": 19376,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 258,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19374,
+                "stars": 19376,
                 "topics": [
                   "aperture",
                   "app",
@@ -705,7 +705,7 @@
                 "open_issues": 1,
                 "owner": "mrk-us",
                 "repo": "sketchsheets",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "design",
                   "design-tools",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:43:38.510Z",
+    "last_updated": "2026-09-26T06:42:34.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -845,10 +845,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
-      "open_issues": 207,
+      "open_issues": 210,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41313,
+      "stars": 41323,
       "topics": [
         "animations",
         "awesome",
