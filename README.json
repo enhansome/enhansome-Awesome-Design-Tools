@@ -19,7 +19,7 @@
             "open_issues": 210,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41330,
+            "stars": 41338,
             "topics": [
               "animations",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 210,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41330,
+            "stars": 41338,
             "topics": [
               "animations",
               "awesome",
@@ -79,7 +79,7 @@
             "open_issues": 210,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41330,
+            "stars": 41338,
             "topics": [
               "animations",
               "awesome",
@@ -114,10 +114,10 @@
                 "language": "HTML",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-23T23:11:44Z",
-                "open_issues": 447,
+                "open_issues": 448,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7559,
+                "stars": 7564,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -314,7 +314,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2025-07-30T07:06:02Z",
-                "open_issues": 409,
+                "open_issues": 410,
                 "owner": "utom",
                 "repo": "sketch-measure",
                 "stars": 6847,
@@ -384,7 +384,7 @@
                 "open_issues": 63,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13070,
+                "stars": 13069,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -433,7 +433,7 @@
                 "open_issues": 316,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76951,
+                "stars": 76949,
                 "topics": [
                   "css",
                   "font",
@@ -490,7 +490,7 @@
                 "open_issues": 1,
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 583,
+                "stars": 584,
                 "topics": [
                   "blog",
                   "clipart",
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3473,
+                "stars": 3476,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -619,7 +619,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
-                "open_issues": 258,
+                "open_issues": 259,
                 "owner": "wulkano",
                 "repo": "Kap",
                 "stars": 19377,
@@ -657,7 +657,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
-                "open_issues": 258,
+                "open_issues": 259,
                 "owner": "wulkano",
                 "repo": "Kap",
                 "stars": 19377,
@@ -705,7 +705,7 @@
                 "open_issues": 1,
                 "owner": "mrk-us",
                 "repo": "sketchsheets",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "design",
                   "design-tools",
@@ -814,7 +814,7 @@
                 "open_issues": 246,
                 "owner": "GoogleChromeLabs",
                 "repo": "ProjectVisBug",
-                "stars": 5766,
+                "stars": 5767,
                 "topics": [
                   "debugging-tool",
                   "design-tools",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T07:12:06.526Z",
+    "last_updated": "2026-09-28T07:46:32.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -848,7 +848,7 @@
       "open_issues": 210,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41330,
+      "stars": 41338,
       "topics": [
         "animations",
         "awesome",
