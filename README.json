@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 211,
+            "open_issues": 213,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41378,
+            "stars": 41386,
             "topics": [
               "animations",
               "awesome",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 211,
+            "open_issues": 213,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41378,
+            "stars": 41386,
             "topics": [
               "animations",
               "awesome",
@@ -76,10 +76,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 211,
+            "open_issues": 213,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41378,
+            "stars": 41386,
             "topics": [
               "animations",
               "awesome",
@@ -114,10 +114,10 @@
                 "language": "HTML",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-02T16:02:31Z",
-                "open_issues": 431,
+                "open_issues": 434,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7587,
+                "stars": 7589,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -430,10 +430,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-15T18:15:53Z",
-                "open_issues": 316,
+                "open_issues": 317,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76947,
+                "stars": 76949,
                 "topics": [
                   "css",
                   "font",
@@ -462,7 +462,7 @@
                 "open_issues": 69,
                 "owner": "fontello",
                 "repo": "fontello",
-                "stars": 7084,
+                "stars": 7085,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -533,7 +533,7 @@
                 "open_issues": 2,
                 "owner": "zehfernandes",
                 "repo": "screeener",
-                "stars": 63,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3477,
+                "stars": 3476,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -622,7 +622,7 @@
                 "open_issues": 260,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19385,
+                "stars": 19386,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 260,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19385,
+                "stars": 19386,
                 "topics": [
                   "aperture",
                   "app",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:08:17.068Z",
+    "last_updated": "2026-10-04T07:28:40.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -845,10 +845,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
-      "open_issues": 211,
+      "open_issues": 213,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41378,
+      "stars": 41386,
       "topics": [
         "animations",
         "awesome",
