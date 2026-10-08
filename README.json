@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 216,
+            "open_issues": 218,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41413,
+            "stars": 41423,
             "topics": [
               "animations",
               "awesome",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 216,
+            "open_issues": 218,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41413,
+            "stars": 41423,
             "topics": [
               "animations",
               "awesome",
@@ -76,10 +76,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 216,
+            "open_issues": 218,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41413,
+            "stars": 41423,
             "topics": [
               "animations",
               "awesome",
@@ -113,11 +113,11 @@
                 "id": 37205440,
                 "language": "HTML",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-06T19:26:19Z",
-                "open_issues": 424,
+                "last_commit": "2026-10-07T22:10:01Z",
+                "open_issues": 422,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7608,
+                "stars": 7612,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -225,7 +225,7 @@
                 "open_issues": 229,
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12326,
+                "stars": 12327,
                 "topics": [
                   "chrome",
                   "color-picker",
@@ -254,7 +254,7 @@
                 "open_issues": 3,
                 "owner": "BafS",
                 "repo": "Material-Colors-native",
-                "stars": 269,
+                "stars": 268,
                 "topics": [
                   "app",
                   "design",
@@ -317,7 +317,7 @@
                 "open_issues": 409,
                 "owner": "utom",
                 "repo": "sketch-measure",
-                "stars": 6848,
+                "stars": 6847,
                 "topics": [
                   "design-specs",
                   "javascript",
@@ -351,7 +351,7 @@
                 "open_issues": 245,
                 "owner": "styleguidist",
                 "repo": "react-styleguidist",
-                "stars": 11050,
+                "stars": 11051,
                 "topics": [
                   "documentation",
                   "hacktoberfest",
@@ -384,7 +384,7 @@
                 "open_issues": 63,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13063,
+                "stars": 13066,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3478,
+                "stars": 3480,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -619,10 +619,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
-                "open_issues": 260,
+                "open_issues": 261,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19387,
+                "stars": 19389,
                 "topics": [
                   "aperture",
                   "app",
@@ -657,10 +657,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-11-12T15:32:40Z",
-                "open_issues": 260,
+                "open_issues": 261,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19387,
+                "stars": 19389,
                 "topics": [
                   "aperture",
                   "app",
@@ -744,7 +744,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5344,
+                "stars": 5345,
                 "topics": [
                   "appcenter",
                   "design",
@@ -781,7 +781,7 @@
                 "open_issues": 31,
                 "owner": "vanila-io",
                 "repo": "wireflow",
-                "stars": 4168,
+                "stars": 4166,
                 "topics": [
                   "collaboration",
                   "flowchart",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:44:59.549Z",
+    "last_updated": "2026-10-08T08:02:54.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -845,10 +845,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
-      "open_issues": 216,
+      "open_issues": 218,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41413,
+      "stars": 41423,
       "topics": [
         "animations",
         "awesome",
