@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41439,
+            "stars": 41447,
             "topics": [
               "animations",
               "awesome",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41439,
+            "stars": 41447,
             "topics": [
               "animations",
               "awesome",
@@ -76,10 +76,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41439,
+            "stars": 41447,
             "topics": [
               "animations",
               "awesome",
@@ -113,11 +113,11 @@
                 "id": 37205440,
                 "language": "HTML",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-08T23:56:45Z",
-                "open_issues": 430,
+                "last_commit": "2026-10-09T12:32:28Z",
+                "open_issues": 432,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7616,
+                "stars": 7621,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -225,7 +225,7 @@
                 "open_issues": 229,
                 "owner": "casesandberg",
                 "repo": "react-color",
-                "stars": 12327,
+                "stars": 12326,
                 "topics": [
                   "chrome",
                   "color-picker",
@@ -384,7 +384,7 @@
                 "open_issues": 63,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13066,
+                "stars": 13069,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -433,7 +433,7 @@
                 "open_issues": 318,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76956,
+                "stars": 76955,
                 "topics": [
                   "css",
                   "font",
@@ -462,7 +462,7 @@
                 "open_issues": 69,
                 "owner": "fontello",
                 "repo": "fontello",
-                "stars": 7081,
+                "stars": 7080,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3480,
+                "stars": 3482,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -589,7 +589,7 @@
                 "open_issues": 92,
                 "owner": "meetalva",
                 "repo": "alva",
-                "stars": 3693,
+                "stars": 3694,
                 "topics": [
                   "components",
                   "design",
@@ -622,7 +622,7 @@
                 "open_issues": 261,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19391,
+                "stars": 19392,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 261,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19391,
+                "stars": 19392,
                 "topics": [
                   "aperture",
                   "app",
@@ -744,7 +744,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5345,
+                "stars": 5346,
                 "topics": [
                   "appcenter",
                   "design",
@@ -775,10 +775,10 @@
                 "description": "Wireflow - user flow chart real-time collaborative tool",
                 "homepage": "https://wireflow.co",
                 "id": 109592396,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-08T21:44:08Z",
-                "open_issues": 25,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-10-10T05:30:42Z",
+                "open_issues": 23,
                 "owner": "vanila-io",
                 "repo": "wireflow",
                 "stars": 4166,
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T08:02:37.931Z",
+    "last_updated": "2026-10-10T07:46:34.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -845,10 +845,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
-      "open_issues": 219,
+      "open_issues": 220,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41439,
+      "stars": 41447,
       "topics": [
         "animations",
         "awesome",
