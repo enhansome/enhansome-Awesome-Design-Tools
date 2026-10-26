@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 231,
+            "open_issues": 232,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41609,
+            "stars": 41624,
             "topics": [
               "animations",
               "awesome",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 231,
+            "open_issues": 232,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41609,
+            "stars": 41624,
             "topics": [
               "animations",
               "awesome",
@@ -76,10 +76,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 231,
+            "open_issues": 232,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41609,
+            "stars": 41624,
             "topics": [
               "animations",
               "awesome",
@@ -114,10 +114,10 @@
                 "language": "HTML",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-22T22:11:27Z",
-                "open_issues": 446,
+                "open_issues": 447,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7704,
+                "stars": 7708,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -317,7 +317,7 @@
                 "open_issues": 409,
                 "owner": "utom",
                 "repo": "sketch-measure",
-                "stars": 6847,
+                "stars": 6845,
                 "topics": [
                   "design-specs",
                   "javascript",
@@ -433,7 +433,7 @@
                 "open_issues": 322,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 76989,
+                "stars": 76994,
                 "topics": [
                   "css",
                   "font",
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "gmattie",
                 "repo": "Data-Pixels",
-                "stars": 3487,
+                "stars": 3488,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -744,7 +744,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5348,
+                "stars": 5349,
                 "topics": [
                   "appcenter",
                   "design",
@@ -814,7 +814,7 @@
                 "open_issues": 246,
                 "owner": "GoogleChromeLabs",
                 "repo": "ProjectVisBug",
-                "stars": 5764,
+                "stars": 5765,
                 "topics": [
                   "debugging-tool",
                   "design-tools",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:00:01.247Z",
+    "last_updated": "2026-10-26T07:06:24.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -845,10 +845,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
-      "open_issues": 231,
+      "open_issues": 232,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41609,
+      "stars": 41624,
       "topics": [
         "animations",
         "awesome",
