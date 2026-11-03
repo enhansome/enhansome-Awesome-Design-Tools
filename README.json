@@ -19,7 +19,7 @@
             "open_issues": 242,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41735,
+            "stars": 41738,
             "topics": [
               "animations",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 242,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41735,
+            "stars": 41738,
             "topics": [
               "animations",
               "awesome",
@@ -79,7 +79,7 @@
             "open_issues": 242,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41735,
+            "stars": 41738,
             "topics": [
               "animations",
               "awesome",
@@ -113,11 +113,11 @@
                 "id": 37205440,
                 "language": "HTML",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-01T12:26:18Z",
+                "last_commit": "2026-11-02T22:33:24Z",
                 "open_issues": 465,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7738,
+                "stars": 7743,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -166,7 +166,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2020-05-30T23:52:13Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "toolness",
                 "repo": "accessible-color-matrix",
                 "stars": 346,
@@ -384,7 +384,7 @@
                 "open_issues": 64,
                 "owner": "majodev",
                 "repo": "google-webfonts-helper",
-                "stars": 13077,
+                "stars": 13079,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -430,7 +430,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-15T18:15:53Z",
-                "open_issues": 325,
+                "open_issues": 324,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
                 "stars": 77017,
@@ -462,7 +462,7 @@
                 "open_issues": 70,
                 "owner": "fontello",
                 "repo": "fontello",
-                "stars": 7081,
+                "stars": 7080,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:36.817Z"
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:25:45.161Z",
+    "last_updated": "2026-11-03T08:40:24.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -848,7 +848,7 @@
       "open_issues": 242,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41735,
+      "stars": 41738,
       "topics": [
         "animations",
         "awesome",
