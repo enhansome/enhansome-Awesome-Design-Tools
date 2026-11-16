@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 251,
+            "open_issues": 253,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41899,
+            "stars": 41913,
             "topics": [
               "animations",
               "awesome",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 251,
+            "open_issues": 253,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41899,
+            "stars": 41913,
             "topics": [
               "animations",
               "awesome",
@@ -76,10 +76,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 251,
+            "open_issues": 253,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41899,
+            "stars": 41913,
             "topics": [
               "animations",
               "awesome",
@@ -117,7 +117,7 @@
                 "open_issues": 491,
                 "owner": "dequelabs",
                 "repo": "axe-core",
-                "stars": 7825,
+                "stars": 7828,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -433,7 +433,7 @@
                 "open_issues": 322,
                 "owner": "FortAwesome",
                 "repo": "Font-Awesome",
-                "stars": 77042,
+                "stars": 77044,
                 "topics": [
                   "css",
                   "font",
@@ -490,7 +490,7 @@
                 "open_issues": 1,
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "blog",
                   "clipart",
@@ -622,7 +622,7 @@
                 "open_issues": 260,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19427,
+                "stars": 19428,
                 "topics": [
                   "aperture",
                   "app",
@@ -660,7 +660,7 @@
                 "open_issues": 260,
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19427,
+                "stars": 19428,
                 "topics": [
                   "aperture",
                   "app",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:28:46.046Z",
+    "last_updated": "2026-11-16T08:39:10.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "The best design tools and plugins for everything 👉",
@@ -845,10 +845,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2024-07-28T19:57:31Z",
-      "open_issues": 251,
+      "open_issues": 253,
       "owner": "goabstract",
       "repo": "Awesome-Design-Tools",
-      "stars": 41899,
+      "stars": 41913,
       "topics": [
         "animations",
         "awesome",
